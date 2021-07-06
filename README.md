@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/15XcuJK-Hy1i9Lcs3ROwv7FiOEAIghjZG
 
 Evaluate the outcome:
 ```
-python eval.py "ans.txt" "ours"
+$ python eval.py "ans.txt" "ours"
 ```
 
 
